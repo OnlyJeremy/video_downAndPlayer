@@ -1,0 +1,6 @@
+framework module Pods_Video_playback {
+  umbrella header "Pods-Video_playback-umbrella.h"
+
+  export *
+  module * { export * }
+}
